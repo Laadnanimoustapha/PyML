@@ -1,5 +1,10 @@
 # PyML-Toolkit: The Ultimate Machine Learning Suite
 
+<!-- Improved alt text for badges -->
+[![Support Palestine](https://img.shields.io/badge/Support-Palestine-000000?labelColor=007A3D&color=CE1126)](#support-palestine)
+[![Free Palestine](https://img.shields.io/badge/Free-Palestine-CE1126?labelColor=000000&color=007A3D)](#support-palestine)
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Welcome to the **PyML-Toolkit**! This repository is a comprehensive collection of Python scripts that demonstrate a wide range of machine learning techniques, from foundational concepts to a complete, automated ML pipeline. It serves as a practical guide and a hands-on playground for learning and implementing real-world data science workflows.
